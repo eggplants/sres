@@ -38,7 +38,7 @@ $ rm sres
 - See: `example` - the result of checking `example.com` and `tsukuba.ac.jp`
 
 ```bash
-$ ./sres tsukuba.ac.jp # Ctrl - C to abort
+$ ./sres tsukuba.ac.jp # Ctrl-C to abort
 Created: tsukuba_ac_jp-20210326-032546.txt, tsukuba_ac_jp-20210326-032546_res.csv
 ```
 ```bash
@@ -78,6 +78,6 @@ url,res_code,content_type,res_time,redirect_url
 - Create: `res_{200,301}.csv`
 
 ```bash
-$ (sed 1\!d tsukuba*_res.csv;grep ',200,' tsukuba*_res.csv) | cut -d, -f5 --complement > res_200.csv
-$ (sed 1\!d tsukuba*_res.csv;grep ',301,' tsukuba*_res.csv) > res_301.csv
+$ (sed 1\!d tsukuba*_res.csv;grep ',200,' tsukuba*_res.csv) | cut -d, -f5 --complement > tsukuba_ac_jp_res_200.csv
+$ (sed 1\!d tsukuba*_res.csv;grep ',301,' tsukuba*_res.csv) > tsukuba_ac_jp_res_301.csv
 ```
