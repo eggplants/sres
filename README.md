@@ -38,7 +38,7 @@ $ rm sres
 - See: `example` - the result of checking `example.com` and `tsukuba.ac.jp`
 
 ```bash
-$ ./sres tsukuba.ac.jp
+$ ./sres tsukuba.ac.jp # Ctrl - C to abort
 Created: tsukuba_ac_jp-20210326-032546.txt, tsukuba_ac_jp-20210326-032546_res.csv
 ```
 ```bash

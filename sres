@@ -3,6 +3,16 @@
 readonly SITE="$1"
 readonly SAVENAME="${SITE//\./_}-$(date +%Y%m%d-%H%M%S)"
 
+trap "_abort; exit 1" 2
+
+function _abort(){
+  stty -igncr
+  rm -rf "${SAVENAME}.txt" "${SAVENAME}_res.csv"
+  echo -ne '\e[1K\r'
+  echo "Abort!"
+  exit 1
+}
+
 function check_sublist3r(){
   command -v sublist3r > /dev/null || {
     cat <<'ERR' >&2 && return 1
@@ -15,7 +25,7 @@ ERR
 
 function get_list(){
   echo -ne '\e[5mEnumerating subdomains...\e[m' >&2
-  sublist3r -d "$SITE" -o "${SAVENAME}.txt" > /dev/null
+  sublist3r -d "$SITE" -o "${SAVENAME}.txt" > /dev/null 2> /dev/null
 }
 
 function out_csv(){
@@ -26,7 +36,7 @@ function out_csv(){
     curl "@" -m 2 -s -o /dev/null \
       -w "@,%{http_code},%{content_type},%{time_starttransfer}s,%{redirect_url}\n" |
   sort >> "${SAVENAME}_res.csv"
-  echo -e '\e[1K\r'
+  echo -ne '\e[1K\r'
 }
 
 function usage(){
@@ -34,6 +44,7 @@ function usage(){
 }
 
 function main(){
+  stty igncr
   { [ $# -eq 1 ] && check_sublist3r;} || { usage && return 1;}
   { get_list && out_csv;} || {
     echo "Error while running!" >&2 && return 1
