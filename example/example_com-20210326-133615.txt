@@ -1,4 +1,5 @@
 www.example.com
+*.example.com
 servers2.0.example.com
 servers21.0.example.com
 sabelfeld.00.example.com

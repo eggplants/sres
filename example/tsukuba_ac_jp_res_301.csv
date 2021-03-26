@@ -1,178 +1,177 @@
 url,res_code,content_type,res_time,redirect_url
-32.237.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.064387s,https://www.aclab.esys.tsukuba.ac.jp/
-acs-gw.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.069402s,https://acs-gw.cs.tsukuba.ac.jp/
-adobe.cc.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071231s,https://adobe.cc.tsukuba.ac.jp/
-api.tims.cc.tsukuba.ac.jp,301,text/html,0.073055s,https://api.tims.cc.tsukuba.ac.jp/
-atmnb.tsukuba.ac.jp,301,text/html,0.205069s,https://atmnb.tsukuba.ac.jp/
-ayu.open.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.070781s,https://ayu.open.esys.tsukuba.ac.jp/
-beans.ddna.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.051315s,https://www.ddna.cs.tsukuba.ac.jp/
-cbs.biol.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.072299s,https://cbs.biol.tsukuba.ac.jp/
-ce5.slis.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.452017s,http://ce.slis.tsukuba.ac.jp/
-centralasia.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.093697s,https://centralasia.jinsha.tsukuba.ac.jp/
-chem.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.109170s,https://chemistry.tsukuba.ac.jp/
-chemistry.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.087906s,https://chemistry.tsukuba.ac.jp/
-chs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.334140s,http://www.kansei.tsukuba.ac.jp/
-ci.mdl.cs.tsukuba.ac.jp,301,text/html,0.071506s,https://ci.mdl.cs.tsukuba.ac.jp/
-cojt.coins.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.119210s,https://cojt.coins.tsukuba.ac.jp/
-crowd4u.slis.tsukuba.ac.jp,301,text/html;charset=utf-8,0.094389s,https://crowd4u.org/
-cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.091569s,https://cs.tsukuba.ac.jp/
-cvlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.102848s,https://home.cvlab.cs.tsukuba.ac.jp/
-deaf-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.087604s,https://deaf-s.tsukuba.ac.jp/
-debian.hlla.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.068395s,https://cloud.softlab.cs.tsukuba.ac.jp/
-digitalnature.slis.tsukuba.ac.jp,301,text/html,0.080526s,https://digitalnature.slis.tsukuba.ac.jp/
-doclib.slis.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.251487s,https://doclib.slis.tsukuba.ac.jp/
-doclib3a.slis.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.239580s,https://doclib3a.slis.tsukuba.ac.jp/
-dora.ims.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.076542s,https://dora.bk.tsukuba.ac.jp/
-eajs2019.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084551s,https://eajs2019.jinsha.tsukuba.ac.jp/
-earth.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.083370s,https://earth.tsukuba.ac.jp/
-educare.kyouiku.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.083679s,http://www.kyouiku.tsukuba.ac.jp/
-eeeforum.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.072706s,https://eeeforum.sec.tsukuba.ac.jp/
-en.home.cvlab.cs.tsukuba.ac.jp,301,application/binary,0.277651s,https://en.home.cvlab.cs.tsukuba.ac.jp/
-eng.ap-graduate.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.077815s,https://eng.ap-graduate.tsukuba.ac.jp/
-eng.futureship.sec.tsukuba.ac.jp,301,text/html,0.077285s,https://eng.futureship.sec.tsukuba.ac.jp/
-environment.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.088011s,https://environment.sec.tsukuba.ac.jp/
-fireball.kz.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.076212s,http://www.kz.tsukuba.ac.jp/~mnisioka
-futureship.sec.tsukuba.ac.jp,301,text/html,0.073754s,https://futureship.sec.tsukuba.ac.jp/
-g-commons.global.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.080455s,http://g-commons.global.tsukuba.ac.jp/news/
-g.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.067639s,https://g.hass.tsukuba.ac.jp/
-gakko.otsuka.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.146802s,http://www.gakko.otsuka.tsukuba.ac.jp/
-gakumu.coins.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.116111s,https://gakumu.coins.tsukuba.ac.jp/
-geijutsu.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.098290s,https://www.geijutsu.tsukuba.ac.jp/
-gene.t-pirc.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075859s,https://gene.t-pirc.tsukuba.ac.jp/
-gfest.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.103719s,https://gfest.tsukuba.ac.jp/
-git.mdl.cs.tsukuba.ac.jp,301,text/html,0.077187s,https://git.mdl.cs.tsukuba.ac.jp/
-git.softlab.cs.tsukuba.ac.jp,301,text/html,0.103206s,https://git.softlab.cs.tsukuba.ac.jp/
-gs.emp.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.083605s,https://gs.emp.tsukuba.ac.jp/
-gw.mibel.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.082074s,http://www.mibel.cs.tsukuba.ac.jp/
-gwo.pas.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.082780s,https://gwo.pas.tsukuba.ac.jp/
-hbp.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084095s,https://hbp.tsukuba.ac.jp/
-hcomp.cs.tsukuba.ac.jp,301,text/html,0.224932s,https://hcomp.cs.tsukuba.ac.jp/
-hcs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.181460s,http://www.hcs.tsukuba.ac.jp/
-home.cvlab.cs.tsukuba.ac.jp,301,application/binary,0.276848s,https://home.cvlab.cs.tsukuba.ac.jp/
-ied.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.159233s,http://www.ied.tsukuba.ac.jp/
-iferi.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071879s,https://iferi.hass.tsukuba.ac.jp/
-iiif.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.091802s,https://iiif.jinsha.tsukuba.ac.jp/
-infoshako.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081097s,https://www.sk.tsukuba.ac.jp/InfoShako/
-inolab.slis.tsukuba.ac.jp,301,text/html; charset=utf-8,0.570058s,http://inolab.slis.tsukuba.ac.jp/en/
-internal.cvlab.cs.tsukuba.ac.jp,301,application/binary,0.303060s,https://internal.cvlab.cs.tsukuba.ac.jp/
-intron.kz.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.329685s,http://eva.vrlab.esys.tsukuba.ac.jp/
-iplab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.098319s,https://iplab.cs.tsukuba.ac.jp/
-jitsi.lumi.msc.tsukuba.ac.jp,301,text/html,0.139633s,https://jitsi.lumi.msc.tsukuba.ac.jp/
-journal.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074547s,https://journal.hass.tsukuba.ac.jp/
-jp-ex.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.109348s,http://jp-ex.tsukuba.ac.jp/
-kaguya.slis.tsukuba.ac.jp,301,text/html,0.073567s,https://kaguya.slis.tsukuba.ac.jp/
-kansei.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.368846s,http://www.kansei.tsukuba.ac.jp/
-kasys.slis.tsukuba.ac.jp,301,text/html,0.078008s,https://kasys.slis.tsukuba.ac.jp/
-kiri-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.106378s,https://www.kiri-s.tsukuba.ac.jp/
-kyouiku.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.165464s,http://www.kyouiku.tsukuba.ac.jp/
-lawschool.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.083382s,https://lawschool.tsukuba.ac.jp/
-leblon.slis.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.102287s,https://leblon.slis.tsukuba.ac.jp:443/
-login.sohosai.tsukuba.ac.jp,301,text/html,0.087543s,https://online.sohosai.com/
-mail.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.065982s,https://www.aclab.esys.tsukuba.ac.jp/
-mail.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074630s,https://mail.cs.tsukuba.ac.jp/
-mail.elementary-s.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.177638s,http://www.elementary-s.tsukuba.ac.jp/
-mail.mibel.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075223s,http://www.mibel.cs.tsukuba.ac.jp/
-mail.softlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.061296s,http://www.softlab.cs.tsukuba.ac.jp/
-mail.tac.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081874s,https://mail.tac.tsukuba.ac.jp/
-manaba.tsukuba.ac.jp,301,text/html,0.114680s,https://manaba.tsukuba.ac.jp/
-math.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.104580s,http://nc.math.tsukuba.ac.jp/
-mdl.cs.tsukuba.ac.jp,301,text/html,0.065187s,https://mdl.cs.tsukuba.ac.jp/
-mibel.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.099608s,http://www.mibel.cs.tsukuba.ac.jp/
-milab.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.100047s,http://www.mibel.cs.tsukuba.ac.jp/
-moeller.jinsha.tsukuba.ac.jp,301,text/html,0.269248s,https://moeller.jinsha.tsukuba.ac.jp/
-msc.tsukuba.ac.jp,301,text/html,0.145495s,https://msc.tsukuba.ac.jp/
-na.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.103488s,https://na.cs.tsukuba.ac.jp/
-ns.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.078436s,https://www.aclab.esys.tsukuba.ac.jp/
-pas.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.108379s,https://grad.pas.tsukuba.ac.jp/
-paulownia.kiri-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.067916s,https://www.kiri-s.tsukuba.ac.jp/
-pepp.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.078678s,https://pepp.hass.tsukuba.ac.jp/
-pfp.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081700s,https://pfp.hass.tsukuba.ac.jp/
-plesk.cc.tsukuba.ac.jp,301,text/html,0.084019s,https://plesk.cc.tsukuba.ac.jp/
-rcdh.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.103331s,https://rcdh.tsukuba.ac.jp/
-redmine.twins.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081408s,https://redmine.twins.tsukuba.ac.jp/
-riekisohan.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071668s,https://riekisohan.sec.tsukuba.ac.jp/
-saba.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.037349s,https://www.aclab.esys.tsukuba.ac.jp/
-scpj.tsukuba.ac.jp,301,text/html,0.086703s,https://scpj.tsukuba.ac.jp/
-serv2.hpcs.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.036812s,https://www.hpcs.cs.tsukuba.ac.jp/
-shako.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.061113s,https://www.sk.tsukuba.ac.jp/
-sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.095620s,https://www.sk.tsukuba.ac.jp/
-sleepymouse.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.109710s,http://sleepymouse.jp/
-softether27.cc.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.076554s,http://www.softether.jp/
-sohosai.tsukuba.ac.jp,301,text/html,0.097927s,https://www.sohosai.tsukuba.ac.jp/
-sportneurosci.taiiku.tsukuba.ac.jp,301,text/html,0.072521s,https://sportneurosci.taiiku.tsukuba.ac.jp/
-srlab.slis.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.069956s,https://srlab.slis.tsukuba.ac.jp/
-staff.chem.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.038558s,https://chemistry.tsukuba.ac.jp/
-suiri.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.583940s,http://www.ied.tsukuba.ac.jp/
-sv-www.cvlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.072885s,https://home.cvlab.cs.tsukuba.ac.jp/
-sv.hcs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.089463s,http://www.hcs.tsukuba.ac.jp/
-sv.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.062890s,https://www.sk.tsukuba.ac.jp/
-tara.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.106758s,https://www1.tara.tsukuba.ac.jp/
-teach.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074431s,https://teach.hass.tsukuba.ac.jp/
-tgsw.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.086759s,https://tgsw.tsukuba.ac.jp/
-tims.cc.tsukuba.ac.jp,301,text/html,0.064488s,https://tims.cc.tsukuba.ac.jp/
-tivoli.ska.life.tsukuba.ac.jp,301,text/html,0.043256s,https://tivoli.ska.life.tsukuba.ac.jp/
-trans.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.073818s,https://trans.hass.tsukuba.ac.jp/
-trios.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.087109s,https://trios.tsukuba.ac.jp/
-turnbull.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.077940s,https://turnbull.sk.tsukuba.ac.jp/
-ura.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075874s,https://ura.sec.tsukuba.ac.jp/
-utvpn.tsukuba.ac.jp,301,text/html; charset=utf-8,1.352026s,http://utvpn.tsukuba.ac.jp/ja/
-voyager.hlla.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.077412s,http://www.softlab.cs.tsukuba.ac.jp/
-wdb.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075590s,https://wdb.jinsha.tsukuba.ac.jp/
-web01.u.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.586301s,https://web01.u.tsukuba.ac.jp/
-webmail.sugadaira.tsukuba.ac.jp,301,text/html,0.086244s,https://webmail.sugadaira.tsukuba.ac.jp/
-wmail.u.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.073005s,https://wmail.u.tsukuba.ac.jp/
-wmail01.u.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084619s,https://wmail01.u.tsukuba.ac.jp/
-wmail02.u.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.083454s,https://wmail02.u.tsukuba.ac.jp/
-wpi-iiis.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.109939s,https://wpi-iiis.tsukuba.ac.jp/
-www.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.125324s,https://www.aclab.esys.tsukuba.ac.jp/
-www.ap-graduate.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084050s,https://www.ap-graduate.tsukuba.ac.jp/
-www.bbo.cs.tsukuba.ac.jp,301,application/binary,0.295673s,https://www.bbo.cs.tsukuba.ac.jp/
-www.biol.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.099635s,https://www.biol.tsukuba.ac.jp/
-www.blaw.gsbs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.537705s,https://www.blaw.gsbs.tsukuba.ac.jp/
-www.chem.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.119304s,https://chemistry.tsukuba.ac.jp/
-www.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.078304s,https://www.cs.tsukuba.ac.jp/
-www.cvlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071802s,https://home.cvlab.cs.tsukuba.ac.jp/
-www.ddna.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.125676s,https://www.ddna.cs.tsukuba.ac.jp/
-www.ddna.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.136419s,https://www.ddna.cs.tsukuba.ac.jp/
-www.deaf-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.066425s,https://www.deaf-s.tsukuba.ac.jp/
-www.earth.tsukuba.ac.jp,301,application/binary,0.310852s,https://www.earth.tsukuba.ac.jp/
-www.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.094168s,https://www.esys.tsukuba.ac.jp/
-www.geijutsu.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071381s,https://www.geijutsu.tsukuba.ac.jp/
-www.gene.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081253s,https://gene.t-pirc.tsukuba.ac.jp/
-www.geol.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074363s,https://www.geol.tsukuba.ac.jp/
-www.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.113574s,https://www.hass.tsukuba.ac.jp/
-www.hcomp.cs.tsukuba.ac.jp,301,text/html,0.274733s,https://hcomp.cs.tsukuba.ac.jp/
-www.heritage.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.076352s,https://www.heritage.tsukuba.ac.jp/
-www.hokekan.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.085916s,https://www.hokekan.tsukuba.ac.jp/
-www.hpcs.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.145561s,https://www.hpcs.cs.tsukuba.ac.jp/
-www.humcul.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.110250s,https://www.humcul.tsukuba.ac.jp/
-www.ialab.cs.tsukuba.ac.jp,301,text/html,0.075443s,https://www.ialab.cs.tsukuba.ac.jp/
-www.image.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.066949s,http://www.image.iit.tsukuba.ac.jp/
-www.iplab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.111267s,https://www.iplab.cs.tsukuba.ac.jp/
-www.japan.tsukuba.ac.jp,301,text/html,0.572865s,http://japan.tsukuba.ac.jp/
-www.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.070480s,https://www.jinsha.tsukuba.ac.jp/
-www.kiri-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.106017s,https://www.kiri-s.tsukuba.ac.jp/
-www.kokusai.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.098875s,https://www.kokusai.tsukuba.ac.jp/
-www.lawschool.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074678s,https://www.lawschool.tsukuba.ac.jp/
-www.math.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079176s,http://nc.math.tsukuba.ac.jp/
-www.mbs.life.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.117064s,https://www.mbs.life.tsukuba.ac.jp/
-www.mdl.cs.tsukuba.ac.jp,301,text/html,0.061666s,https://www.mdl.cs.tsukuba.ac.jp/
-www.mma.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.174491s,https://www.mma.cs.tsukuba.ac.jp/
-www.office.otsuka.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.089450s,https://www.office.otsuka.tsukuba.ac.jp/
-www.osi.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.086619s,https://www.osi.tsukuba.ac.jp/
-www.pas.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074772s,https://grad.pas.tsukuba.ac.jp/
-www.pe.ska.life.tsukuba.ac.jp,301,text/html,0.114443s,https://www.pe.ska.life.tsukuba.ac.jp/
-www.press.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.086941s,https://www.press.tsukuba.ac.jp/
-www.rcdh.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.076167s,https://www.jinsha.tsukuba.ac.jp/
-www.research-fund.sec.tsukuba.ac.jp,301,text/html,0.226587s,https://www.research-fund.sec.tsukuba.ac.jp/
-www.ri-center.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.173545s,http://www.ied.tsukuba.ac.jp/
-www.roboken.iit.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.090112s,https://www.roboken.iit.tsukuba.ac.jp/
-www.sanrenhonbu.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081236s,https://www.sanrenhonbu.tsukuba.ac.jp/
-www.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.104872s,https://www.sk.tsukuba.ac.jp/
-www.sohosai.tsukuba.ac.jp,301,text/html,0.069380s,https://www.sohosai.tsukuba.ac.jp/
-www.sugadaira.tsukuba.ac.jp,301,text/html,0.126979s,https://www.sugadaira.tsukuba.ac.jp/
-www.tara.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075227s,https://www1.tara.tsukuba.ac.jp/
-www.trios.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.077771s,https://trios.tsukuba.ac.jp/
-www.tsukuba.ac.jp,301,text/html,0.431982s,https://www.tsukuba.ac.jp/
-www.u.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.563534s,https://www.u.tsukuba.ac.jp/
-yui.kz.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.083816s,https://yui.kz.tsukuba.ac.jp/
+32.237.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.065236s,https://www.aclab.esys.tsukuba.ac.jp/
+acs-gw.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.083796s,https://acs-gw.cs.tsukuba.ac.jp/
+adobe.cc.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.060635s,https://adobe.cc.tsukuba.ac.jp/
+api.tims.cc.tsukuba.ac.jp,301,text/html,0.070182s,https://api.tims.cc.tsukuba.ac.jp/
+atmnb.tsukuba.ac.jp,301,text/html,0.535914s,https://atmnb.tsukuba.ac.jp/
+ayu.open.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.072165s,https://ayu.open.esys.tsukuba.ac.jp/
+beans.ddna.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071137s,https://www.ddna.cs.tsukuba.ac.jp/
+cbs.biol.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.085815s,https://cbs.biol.tsukuba.ac.jp/
+ce5.slis.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.444484s,http://ce.slis.tsukuba.ac.jp/
+centralasia.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.082310s,https://centralasia.jinsha.tsukuba.ac.jp/
+chem.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.098521s,https://chemistry.tsukuba.ac.jp/
+chemistry.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.097598s,https://chemistry.tsukuba.ac.jp/
+chs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.405634s,http://www.kansei.tsukuba.ac.jp/
+ci.mdl.cs.tsukuba.ac.jp,301,text/html,0.077976s,https://ci.mdl.cs.tsukuba.ac.jp/
+cojt.coins.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.121720s,https://cojt.coins.tsukuba.ac.jp/
+crowd4u.slis.tsukuba.ac.jp,301,text/html;charset=utf-8,0.123943s,https://crowd4u.org/
+cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.196267s,https://cs.tsukuba.ac.jp/
+cvlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.173286s,https://home.cvlab.cs.tsukuba.ac.jp/
+deaf-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.095931s,https://deaf-s.tsukuba.ac.jp/
+debian.hlla.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.094956s,https://cloud.softlab.cs.tsukuba.ac.jp/
+digitalnature.slis.tsukuba.ac.jp,301,text/html,0.076928s,https://digitalnature.slis.tsukuba.ac.jp/
+doclib.slis.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.083329s,https://doclib.slis.tsukuba.ac.jp/
+doclib3a.slis.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.292376s,https://doclib3a.slis.tsukuba.ac.jp/
+dora.ims.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.073042s,https://dora.bk.tsukuba.ac.jp/
+eajs2019.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084719s,https://eajs2019.jinsha.tsukuba.ac.jp/
+earth.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,1.418579s,https://earth.tsukuba.ac.jp/
+educare.kyouiku.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.132059s,http://www.kyouiku.tsukuba.ac.jp/
+eeeforum.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.078557s,https://eeeforum.sec.tsukuba.ac.jp/
+en.home.cvlab.cs.tsukuba.ac.jp,301,application/binary,0.384504s,https://en.home.cvlab.cs.tsukuba.ac.jp/
+eng.ap-graduate.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.090226s,https://eng.ap-graduate.tsukuba.ac.jp/
+eng.futureship.sec.tsukuba.ac.jp,301,text/html,0.086441s,https://eng.futureship.sec.tsukuba.ac.jp/
+environment.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.066357s,https://environment.sec.tsukuba.ac.jp/
+fireball.kz.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.072304s,http://www.kz.tsukuba.ac.jp/~mnisioka
+futureship.sec.tsukuba.ac.jp,301,text/html,0.080388s,https://futureship.sec.tsukuba.ac.jp/
+g-commons.global.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.070896s,http://g-commons.global.tsukuba.ac.jp/news/
+g.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079426s,https://g.hass.tsukuba.ac.jp/
+gakko.otsuka.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.221118s,http://www.gakko.otsuka.tsukuba.ac.jp/
+gakumu.coins.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.109809s,https://gakumu.coins.tsukuba.ac.jp/
+geijutsu.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.140939s,https://www.geijutsu.tsukuba.ac.jp/
+gene.t-pirc.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.104703s,https://gene.t-pirc.tsukuba.ac.jp/
+gfest.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.093876s,https://gfest.tsukuba.ac.jp/
+git.mdl.cs.tsukuba.ac.jp,301,text/html,0.069754s,https://git.mdl.cs.tsukuba.ac.jp/
+git.softlab.cs.tsukuba.ac.jp,301,text/html,0.127034s,https://git.softlab.cs.tsukuba.ac.jp/
+gs.emp.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084401s,https://gs.emp.tsukuba.ac.jp/
+gw.mibel.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074014s,http://www.mibel.cs.tsukuba.ac.jp/
+gwo.pas.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.101685s,https://gwo.pas.tsukuba.ac.jp/
+hbp.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084806s,https://hbp.tsukuba.ac.jp/
+hcomp.cs.tsukuba.ac.jp,301,text/html,0.226683s,https://hcomp.cs.tsukuba.ac.jp/
+hcs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.262630s,http://www.hcs.tsukuba.ac.jp/
+home.cvlab.cs.tsukuba.ac.jp,301,application/binary,0.439573s,https://home.cvlab.cs.tsukuba.ac.jp/
+ied.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.162270s,http://www.ied.tsukuba.ac.jp/
+iferi.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.076180s,https://iferi.hass.tsukuba.ac.jp/
+iiif.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.084927s,https://iiif.jinsha.tsukuba.ac.jp/
+infoshako.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075502s,https://www.sk.tsukuba.ac.jp/InfoShako/
+inolab.slis.tsukuba.ac.jp,301,text/html; charset=utf-8,0.653337s,http://inolab.slis.tsukuba.ac.jp/en/
+internal.cvlab.cs.tsukuba.ac.jp,301,application/binary,0.661909s,https://internal.cvlab.cs.tsukuba.ac.jp/
+intron.kz.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.349686s,http://eva.vrlab.esys.tsukuba.ac.jp/
+iplab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.123818s,https://iplab.cs.tsukuba.ac.jp/
+journal.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071751s,https://journal.hass.tsukuba.ac.jp/
+jp-ex.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.106704s,http://jp-ex.tsukuba.ac.jp/
+kaguya.slis.tsukuba.ac.jp,301,text/html,0.140480s,https://kaguya.slis.tsukuba.ac.jp/
+kansei.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.335918s,http://www.kansei.tsukuba.ac.jp/
+kasys.slis.tsukuba.ac.jp,301,text/html,0.148467s,https://kasys.slis.tsukuba.ac.jp/
+kiri-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.106036s,https://www.kiri-s.tsukuba.ac.jp/
+kyouiku.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.173537s,http://www.kyouiku.tsukuba.ac.jp/
+lawschool.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.100146s,https://lawschool.tsukuba.ac.jp/
+leblon.slis.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.080687s,https://leblon.slis.tsukuba.ac.jp:443/
+login.sohosai.tsukuba.ac.jp,301,text/html,0.100678s,https://online.sohosai.com/
+mail.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.114767s,https://www.aclab.esys.tsukuba.ac.jp/
+mail.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.073666s,https://mail.cs.tsukuba.ac.jp/
+mail.elementary-s.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.254574s,http://www.elementary-s.tsukuba.ac.jp/
+mail.mibel.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.087149s,http://www.mibel.cs.tsukuba.ac.jp/
+mail.softlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.158714s,http://www.softlab.cs.tsukuba.ac.jp/
+mail.tac.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.068237s,https://mail.tac.tsukuba.ac.jp/
+manaba.tsukuba.ac.jp,301,text/html,0.120570s,https://manaba.tsukuba.ac.jp/
+math.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.120928s,http://nc.math.tsukuba.ac.jp/
+mdl.cs.tsukuba.ac.jp,301,text/html,0.068920s,https://mdl.cs.tsukuba.ac.jp/
+mibel.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.103443s,http://www.mibel.cs.tsukuba.ac.jp/
+milab.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.112997s,http://www.mibel.cs.tsukuba.ac.jp/
+moeller.jinsha.tsukuba.ac.jp,301,text/html,0.269110s,https://moeller.jinsha.tsukuba.ac.jp/
+msc.tsukuba.ac.jp,301,text/html,0.154472s,https://msc.tsukuba.ac.jp/
+na.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.143959s,https://na.cs.tsukuba.ac.jp/
+ns.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071133s,https://www.aclab.esys.tsukuba.ac.jp/
+pas.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.129863s,https://grad.pas.tsukuba.ac.jp/
+paulownia.kiri-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.035052s,https://www.kiri-s.tsukuba.ac.jp/
+pepp.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.094230s,https://pepp.hass.tsukuba.ac.jp/
+pfp.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074402s,https://pfp.hass.tsukuba.ac.jp/
+plesk.cc.tsukuba.ac.jp,301,text/html,0.086757s,https://plesk.cc.tsukuba.ac.jp/
+rcdh.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.088945s,https://rcdh.tsukuba.ac.jp/
+redmine.twins.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.100417s,https://redmine.twins.tsukuba.ac.jp/
+riekisohan.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.080653s,https://riekisohan.sec.tsukuba.ac.jp/
+saba.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.034660s,https://www.aclab.esys.tsukuba.ac.jp/
+scpj.tsukuba.ac.jp,301,text/html,0.091674s,https://scpj.tsukuba.ac.jp/
+serv2.hpcs.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.031785s,https://www.hpcs.cs.tsukuba.ac.jp/
+shako.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.109679s,https://www.sk.tsukuba.ac.jp/
+sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.091056s,https://www.sk.tsukuba.ac.jp/
+sleepymouse.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.106192s,http://sleepymouse.jp/
+softether27.cc.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.077049s,http://www.softether.jp/
+sohosai.tsukuba.ac.jp,301,text/html,0.280769s,https://www.sohosai.tsukuba.ac.jp/
+sportneurosci.taiiku.tsukuba.ac.jp,301,text/html,0.093818s,https://sportneurosci.taiiku.tsukuba.ac.jp/
+srlab.slis.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.081203s,https://srlab.slis.tsukuba.ac.jp/
+staff.chem.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.039530s,https://chemistry.tsukuba.ac.jp/
+suiri.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.168448s,http://www.ied.tsukuba.ac.jp/
+sv-www.cvlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.159018s,https://home.cvlab.cs.tsukuba.ac.jp/
+sv.hcs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.090467s,http://www.hcs.tsukuba.ac.jp/
+sv.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.059395s,https://www.sk.tsukuba.ac.jp/
+tara.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.111264s,https://www1.tara.tsukuba.ac.jp/
+teach.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079204s,https://teach.hass.tsukuba.ac.jp/
+tgsw.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.125559s,https://tgsw.tsukuba.ac.jp/
+tims.cc.tsukuba.ac.jp,301,text/html,0.080083s,https://tims.cc.tsukuba.ac.jp/
+tivoli.ska.life.tsukuba.ac.jp,301,text/html,0.043618s,https://tivoli.ska.life.tsukuba.ac.jp/
+trans.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074400s,https://trans.hass.tsukuba.ac.jp/
+trios.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.073041s,https://trios.tsukuba.ac.jp/
+turnbull.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079443s,https://turnbull.sk.tsukuba.ac.jp/
+ura.sec.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071253s,https://ura.sec.tsukuba.ac.jp/
+utvpn.tsukuba.ac.jp,301,text/html; charset=utf-8,1.390881s,http://utvpn.tsukuba.ac.jp/ja/
+voyager.hlla.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074512s,http://www.softlab.cs.tsukuba.ac.jp/
+wdb.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071731s,https://wdb.jinsha.tsukuba.ac.jp/
+web01.u.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.499596s,https://web01.u.tsukuba.ac.jp/
+webmail.sugadaira.tsukuba.ac.jp,301,text/html,0.133909s,https://webmail.sugadaira.tsukuba.ac.jp/
+wmail.u.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.073652s,https://wmail.u.tsukuba.ac.jp/
+wmail01.u.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.065777s,https://wmail01.u.tsukuba.ac.jp/
+wmail02.u.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.068153s,https://wmail02.u.tsukuba.ac.jp/
+wpi-iiis.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.203452s,https://wpi-iiis.tsukuba.ac.jp/
+www.aclab.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,1.544056s,https://www.aclab.esys.tsukuba.ac.jp/
+www.ap-graduate.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.092910s,https://www.ap-graduate.tsukuba.ac.jp/
+www.bbo.cs.tsukuba.ac.jp,301,application/binary,0.311387s,https://www.bbo.cs.tsukuba.ac.jp/
+www.biol.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.277202s,https://www.biol.tsukuba.ac.jp/
+www.blaw.gsbs.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.500574s,https://www.blaw.gsbs.tsukuba.ac.jp/
+www.bres.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.123199s,https://www.bres.tsukuba.ac.jp/
+www.chem.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.116376s,https://chemistry.tsukuba.ac.jp/
+www.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.141386s,https://www.cs.tsukuba.ac.jp/
+www.cvlab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.125226s,https://home.cvlab.cs.tsukuba.ac.jp/
+www.ddna.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.138584s,https://www.ddna.cs.tsukuba.ac.jp/
+www.ddna.is.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.163976s,https://www.ddna.cs.tsukuba.ac.jp/
+www.deaf-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.077025s,https://www.deaf-s.tsukuba.ac.jp/
+www.earth.tsukuba.ac.jp,301,application/binary,1.494481s,https://www.earth.tsukuba.ac.jp/
+www.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.613066s,https://www.esys.tsukuba.ac.jp/
+www.geijutsu.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079866s,https://www.geijutsu.tsukuba.ac.jp/
+www.gene.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.093128s,https://gene.t-pirc.tsukuba.ac.jp/
+www.geol.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079247s,https://www.geol.tsukuba.ac.jp/
+www.hass.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.120315s,https://www.hass.tsukuba.ac.jp/
+www.hcomp.cs.tsukuba.ac.jp,301,text/html,0.239694s,https://hcomp.cs.tsukuba.ac.jp/
+www.heritage.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.079163s,https://www.heritage.tsukuba.ac.jp/
+www.hokekan.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.078617s,https://www.hokekan.tsukuba.ac.jp/
+www.hpcs.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.126357s,https://www.hpcs.cs.tsukuba.ac.jp/
+www.humcul.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.126627s,https://www.humcul.tsukuba.ac.jp/
+www.ialab.cs.tsukuba.ac.jp,301,text/html,0.104160s,https://www.ialab.cs.tsukuba.ac.jp/
+www.image.esys.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.071178s,http://www.image.iit.tsukuba.ac.jp/
+www.iplab.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.101417s,https://www.iplab.cs.tsukuba.ac.jp/
+www.japan.tsukuba.ac.jp,301,text/html,0.577531s,http://japan.tsukuba.ac.jp/
+www.jinsha.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.075582s,https://www.jinsha.tsukuba.ac.jp/
+www.kiri-s.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.112699s,https://www.kiri-s.tsukuba.ac.jp/
+www.lawschool.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.082708s,https://www.lawschool.tsukuba.ac.jp/
+www.math.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.077342s,http://nc.math.tsukuba.ac.jp/
+www.mbs.life.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.095971s,https://www.mbs.life.tsukuba.ac.jp/
+www.mdl.cs.tsukuba.ac.jp,301,text/html,0.053952s,https://www.mdl.cs.tsukuba.ac.jp/
+www.mma.cs.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.160561s,https://www.mma.cs.tsukuba.ac.jp/
+www.office.otsuka.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074962s,https://www.office.otsuka.tsukuba.ac.jp/
+www.osi.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.100388s,https://www.osi.tsukuba.ac.jp/
+www.pas.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.127894s,https://grad.pas.tsukuba.ac.jp/
+www.pe.ska.life.tsukuba.ac.jp,301,text/html,0.129820s,https://www.pe.ska.life.tsukuba.ac.jp/
+www.press.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.088391s,https://www.press.tsukuba.ac.jp/
+www.rcdh.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.076225s,https://www.jinsha.tsukuba.ac.jp/
+www.research-fund.sec.tsukuba.ac.jp,301,text/html,0.180316s,https://www.research-fund.sec.tsukuba.ac.jp/
+www.ri-center.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.158368s,http://www.ied.tsukuba.ac.jp/
+www.roboken.iit.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.164638s,https://www.roboken.iit.tsukuba.ac.jp/
+www.sanrenhonbu.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.080589s,https://www.sanrenhonbu.tsukuba.ac.jp/
+www.sk.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.097077s,https://www.sk.tsukuba.ac.jp/
+www.sohosai.tsukuba.ac.jp,301,text/html,0.135678s,https://www.sohosai.tsukuba.ac.jp/
+www.sugadaira.tsukuba.ac.jp,301,text/html,0.171611s,https://www.sugadaira.tsukuba.ac.jp/
+www.tara.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.095767s,https://www1.tara.tsukuba.ac.jp/
+www.trios.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.074300s,https://trios.tsukuba.ac.jp/
+www.tsukuba.ac.jp,301,text/html,0.214221s,https://www.tsukuba.ac.jp/
+www.u.tsukuba.ac.jp,301,text/html; charset=UTF-8,0.604076s,https://www.u.tsukuba.ac.jp/
+yui.kz.tsukuba.ac.jp,301,text/html; charset=iso-8859-1,0.092603s,https://yui.kz.tsukuba.ac.jp/
