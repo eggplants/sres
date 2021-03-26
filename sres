@@ -48,6 +48,7 @@ function main(){
   { get_list && out_csv;} || {
     echo "Error while running!" >&2 && return 1
   }
+  stty -igncr
   echo "Created: ${SAVENAME}.txt, ${SAVENAME}_res.csv" >&2
 }
 
