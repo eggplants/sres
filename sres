@@ -10,7 +10,6 @@ function _abort(){
   rm -rf "${SAVENAME}.txt" "${SAVENAME}_res.csv"
   echo -ne '\e[1K\r'
   echo "Abort!"
-  exit 1
 }
 
 function check_sublist3r(){
