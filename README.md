@@ -9,7 +9,7 @@ $ git clone https://github.com/aboul3la/Sublist3r && cd Sublist3r
 $ pip install -e .
 ```
 
-- curl
+- cURL
 
 ```bash
 $ sudo apt install curl
