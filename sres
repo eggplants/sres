@@ -33,7 +33,7 @@ function out_csv(){
   echo 'url,res_code,content_type,res_time,redirect_url' > "${SAVENAME}_res.csv"
   < "${SAVENAME}.txt" xargs -n 1 -P 5 -I@ \
     curl "@" -m 2 -s -o /dev/null \
-      -w "@,%{http_code},%{content_type},%{time_starttransfer}s,%{redirect_url}\n" |
+      -w "@,%{http_code},%{content_type},%{time_total}s,%{redirect_url}\n" |
   sort >> "${SAVENAME}_res.csv"
   echo -ne '\e[1K\r'
 }
