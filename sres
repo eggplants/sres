@@ -43,13 +43,14 @@ function usage(){
 }
 
 function main(){
-  stty igncr
   { [ $# -eq 1 ] && check_sublist3r;} || { usage && return 1;}
+  stty igncr
   { get_list && out_csv;} || {
     echo "Error while running!" >&2 && return 1
+    stty -igncr
   }
-  stty -igncr
   echo "Created: ${SAVENAME}.txt, ${SAVENAME}_res.csv" >&2
+  stty -igncr
 }
 
 main "$@"
