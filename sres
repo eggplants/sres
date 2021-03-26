@@ -4,7 +4,7 @@ readonly SITE="$1"
 readonly SAVENAME="${SITE//\./_}-$(date +%Y%m%d-%H%M%S)"
 
 function check_sublist3r(){
-  which sublist3r 2> /dev/null > /dev/null || {
+  command -v sublist3r > /dev/null || {
     cat <<'ERR' >&2 && return 1
 Install sublist3r:
   git clone https://github.com/aboul3la/Sublist3r && cd Sublist3r
@@ -22,7 +22,7 @@ function out_csv(){
   echo -ne '\e[1K\r'
   echo -ne '\e[5mChecking response...(maybe take a while to finish)\e[m' >&2
   echo 'url,res_code,content_type,res_time,redirect_url' > "${SAVENAME}_res.csv"
-  cat "${SAVENAME}.txt" | xargs -n 1 -P 5 -I@ \
+  < "${SAVENAME}.txt" xargs -n 1 -P 5 -I@ \
     curl "@" -m 2 -s -o /dev/null \
       -w "@,%{http_code},%{content_type},%{time_starttransfer}s,%{redirect_url}\n" |
   sort >> "${SAVENAME}_res.csv"
