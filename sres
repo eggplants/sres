@@ -9,7 +9,7 @@ function _abort(){
   stty -igncr
   rm -rf "${SAVENAME}.txt" "${SAVENAME}_res.csv"
   echo -ne '\e[1K\r'
-  echo "Abort!"
+  echo "Abort!" >&2
 }
 
 function check_sublist3r(){
@@ -44,14 +44,14 @@ function usage(){
 
 function main(){
   { [ $# -eq 1 ] && check_sublist3r;} || { usage && return 1;}
-  stty igncr
   { get_list && out_csv;} || {
     echo "Error while running!" >&2 && return 1
-    stty -igncr
   }
   echo "Created: ${SAVENAME}.txt, ${SAVENAME}_res.csv" >&2
-  stty -igncr
 }
 
+stty igncr
 main "$@"
-exit $?
+readonly s=$?
+stty -igncr
+exit "$s"
